@@ -1,0 +1,27 @@
+{
+  "vorname":"Max",
+  "alter":40,
+  "gewicht":79.56,
+  "istMaennlich":false,
+  "auto":{
+    "name":"VW Golf",
+    "baujahr":2012,
+    "kraftstoffart":"Diesel",
+    "motor":{
+      "hubraum":1.6,
+      "verbrauch100km":7
+    }
+  },
+  "kinder":[
+    {
+      "vorname":"Tom",
+      "alter":13,
+      "istMaennlich":true
+    },
+    {
+      "vorname":"Anna",
+      "alter":16,
+      "istMaennlich":false
+    }
+  ]
+}
